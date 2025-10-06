@@ -142,8 +142,10 @@ Figma
 home page:
 ![HOME PAGE](<Screenshot (55).png>)
 REGISTER FORM:
+
 ![REGISTER](<Screenshot (56).png>)
 LOGIN :
+
 ![LOGIN](<Screenshot (57).png>)
 
 
